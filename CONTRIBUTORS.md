@@ -1,7 +1,6 @@
 Add your details using the following format:
 
-1)
-#### Name: Hassan Ahmed
+#### 1) Name: Hassan Ahmed
 
 - Place: Jamshoro, Sindh, Pakistan
 - Bio: AI Engineer
