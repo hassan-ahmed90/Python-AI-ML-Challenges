@@ -1,5 +1,8 @@
 Add your details using the following format:
 
-| Name | GitHub Username | Domain | City 
+1)
+#### Name: Hassan Ahmed
 
-1) Hassan Ahmed | hassan-ahmed90 | AI Engineering | Jamshoro
+- Place: Jamshoro, Sindh, Pakistan
+- Bio: AI Engineer
+- GitHub: https://github.com/hassan-ahmed90
