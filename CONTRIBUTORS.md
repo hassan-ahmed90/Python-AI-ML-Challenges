@@ -13,10 +13,10 @@ Add your details using the following format:
 - GitHub: https://github.com/hassan-ahmed90
 
 
-#### 4) Name: Fiza Dhani
+#### 4) Name: Fiza Dahani
 
 - Place: Jamshoro, Sindh, Pakistan
 - Bio: AI Engineer
-- GitHub: https://github.com/hassan-ahmed90
+- GitHub: https://github.com/Fiza-110
 
 
