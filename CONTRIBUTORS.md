@@ -24,3 +24,8 @@ Add your details using the following format:
 - GitHub: https://github.com/Fiza-110
 
 
+#### 5) Name: Zulekha Korejo
+
+- Place: Jamshoro, Sindh, Pakistan
+- Bio: AI Engineer
+- GitHub: 
