@@ -6,11 +6,11 @@ Add your details using the following format:
 - Bio: AI Engineer
 - GitHub: https://github.com/hassan-ahmed90
 
-#### 2) Name: Sindhu 
+#### 2) Name: Sindhu Dahani
 
-- Place: Jamshoro, Sindh, Pakistan
-- Bio: AI Engineer
-- GitHub: https://github.com/hassan-ahmed90
+- Place: Jamshoro, Sindh
+- Bio: AI Engineer 
+- GitHub: https://github.com/SindhuDahani
 
 #### 3) Name: Aqsa Zubair
 - Place: Jamshoro, Sindh, Pakistan
