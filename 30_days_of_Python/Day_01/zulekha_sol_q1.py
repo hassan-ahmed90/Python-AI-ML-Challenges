@@ -11,8 +11,9 @@ print(f"after swapping: {a , b}")
 #print(f"Hi, nice to meet you {name}")
 
 #  Q3. Write a program to check if a number 
+
+# num = int(input("give me any number and i'll tell you if it's odd or even: "))
+# if num%2==0:
 #     print(f'{num} is even')
 # else:
 #  print(f'{num} is odd')
-
-print("")
