@@ -14,10 +14,10 @@ Add your details using the following format:
 
 #### 3) Name: Aqsa Zubair
 
-#### 4) Name: Fiza Dhani
+#### 4) Name: Fiza Dahani
 
 - Place: Jamshoro, Sindh, Pakistan
 - Bio: AI Engineer
-- GitHub: https://github.com/Aqsazubair24
+- GitHub: https://github.com/Fiza-110
 
 
