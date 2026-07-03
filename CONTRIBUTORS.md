@@ -13,6 +13,9 @@ Add your details using the following format:
 - GitHub: https://github.com/hassan-ahmed90
 
 #### 3) Name: Aqsa Zubair
+- Place: Jamshoro, Sindh, Pakistan
+- Bio: AI Engineer
+- GitHub: https://github.com/Aqsazubair24
 
 #### 4) Name: Fiza Dhani
 
