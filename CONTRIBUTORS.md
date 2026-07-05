@@ -12,6 +12,7 @@ Add your details using the following format:
 - Bio: AI Engineer
 - GitHub: https://github.com/hassan-ahmed90
 
+#### 3) Name: Aqsa Zubair
 
 #### 4) Name: Fiza Dahani
 
