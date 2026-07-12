@@ -1,7 +1,7 @@
 # Q13. Program to calculate the sum of digits of a number
 
 # Taking a number from the user
-"""num = int(input("Enter a number: "))
+num = int(input("Enter a number: "))
 total = 0
 
 # Adding each digit to the total
@@ -11,15 +11,15 @@ while num > 0:
     num = num // 10
 
 # Displaying the sum of digits
-print("Sum of digits =", total)"""
+print("Sum of digits =", total)
 
 # Q14. Program to find the second largest number in a list
 
-"""numbers = [12, 45, 8, 67, 23, 90, 34]# Creating a list of numbers
+numbers = [12, 45, 8, 67, 23, 90, 34]# Creating a list of numbers
 
 numbers.sort()# Sorting the list in ascending order
 
-print("Second largest number is:",numbers[-2])"""
+print("Second largest number is:",numbers[-2])
 
 # Q15. Program to count the number of digits in an integer
 
