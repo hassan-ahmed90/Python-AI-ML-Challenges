@@ -1,4 +1,4 @@
-# Q16. Calculator app using if-else
+# Q16. Calculator app using if-else.
 
 # Taking two numbers from the user
 num1 = float(input("Enter first number: "))
@@ -27,7 +27,7 @@ else:
     print("Invalid operator.")
 
 
-# Q17. Program to find the square root of a number
+# Q17. Program to find the square root of a number.
 
 import math
 
@@ -40,7 +40,7 @@ result = math.sqrt(num)
 print("Square root =", result)# print the result
 
 
-# Q18. Program to check whether a number is prime or not
+# Q18. Program to check whether a number is prime or not.
 
 num = int(input("Enter a number: "))
 
@@ -63,7 +63,7 @@ else:
         print(num, "is not a prime number.")
 
 
-# Q19. Program to display the cube of numbers up to an integer
+# Q19. Program to display the cube of numbers up to an integer.
 
 
 n = int(input("Enter an integer: "))

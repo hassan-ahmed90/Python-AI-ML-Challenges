@@ -1,5 +1,5 @@
 # Q10. Program to find the sum of first N natural numbers
-n=int(input("enter a number "))
+n=int(input("enter a number"))
 total = 0
 # adding numbers from 1 to n
 for i in range (1,n+1):
