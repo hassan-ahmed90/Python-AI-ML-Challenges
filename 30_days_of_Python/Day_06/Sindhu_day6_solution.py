@@ -64,8 +64,7 @@ else:
 
 
 # Q19. Program to display the cube of numbers up to an integer.
-
-
+#take input from user 
 n = int(input("Enter an integer: "))
 
 # Finding and displaying cubes from 1 to n

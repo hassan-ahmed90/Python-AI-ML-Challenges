@@ -23,7 +23,7 @@ print("Second largest number is:",numbers[-2])
 
 # Q15. Program to count the number of digits in an integer.
 
-num = int (input("Enetr a numbers: "))
+num = int (input("Enetr a numbers: "))#take input from user 
 count =0
 
 while num>0:# Counting the digits one by one
